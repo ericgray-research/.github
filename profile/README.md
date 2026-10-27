@@ -33,4 +33,4 @@ source, recorded and credited per dataset.
 A Schwarzschild black hole with a thin accretion disk seen at 80°, the configuration of
 Luminet (1979), rendered on a Pixel 10's GPU. The faint vertical line is the seam where the GPU's
 render tiles were stitched together. It is kept as rendered: it is where the image was made.
-The full-resolution render and its custody record are at [ericgray.dev](https://ericgray.dev).
+The full-resolution render is at [ericgray.dev](https://ericgray.dev).
